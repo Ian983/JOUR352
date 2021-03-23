@@ -1,0 +1,71 @@
+.headline {
+  font-size: 3em;
+  font-weight: 700;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 200%;
+}
+
+.byline {
+  font-size: 1em;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  line-height: 180%;
+}
+
+.chapter-headline {
+  font-size: 2em;
+  font-weight: 700;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 200%;
+}
+
+p {
+  font-family: georgia, serif;
+  line-height: 180%;
+  text-indent: 50px;
+}
+
+img {
+  max-width: 80%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+figcaption{
+  margin-left: 120px;
+  margin-bottom: 35px;
+}
+
+.column {
+  float: center;
+  width: 28%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  margin-left: 50px;
+  margin-bottom: 100px;
+}
+
+.footer {
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: georgia, serif;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
