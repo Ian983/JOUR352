@@ -1,0 +1,69 @@
+#content {
+  margin: auto;
+  width: 900px;
+}
+
+#masthead {
+  text-align: center;
+  padding: 5px;
+  background-color: black;
+  color: white;
+  margin-bottom: 10px;
+  font-size: 3em;
+}
+
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  font size: 5em;
+}
+
+p {
+  font-family: georgia, serif;
+  font-size: 13px;
+}
+
+img {
+  max-width: 80%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.caption {
+  margin-left: 80px;
+  margin-right: 80px;
+  weight: 2em;
+}
+
+.headline {
+  text-align: left;
+  padding: 5px;
+  color: black;
+  margin-bottom: 6px;
+  font-size: 2em;
+}
+
+.pquote {
+    float: left;
+    width: 150px;
+    background: #ddf;
+    font-weight: bold;
+    padding: 18px;
+    margin: 0 13px 13px 0;
+    font: georgia, serif;
+    font-size: 15px;
+}
+
+blockquote {
+    margin: 0; /* gets rid of the default blockquote margin */
+}
