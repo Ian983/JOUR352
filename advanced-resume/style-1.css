@@ -5,6 +5,7 @@
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   line-height: 250%;
+  color: #dce0e0;
 }
 
 .byline {
@@ -13,6 +14,7 @@
   font-family: 'Montserrat', sans-serif;
   text-align: center;
   line-height: 180%;
+  color: #dce0e0;
 }
 
 .chapter-headline {
@@ -21,12 +23,14 @@
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   line-height: 350%;
+  color: #dce0e0;
 }
 
 p {
   font-family: georgia, serif;
   line-height: 150%;
   text-indent: 20px;
+  color: #dce0e0;
 }
 
 .page-topper {
@@ -58,7 +62,7 @@ figcaption{
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: black;
+  background-color: #626569;
   color: white;
   text-align: center;
   font-family: georgia, serif;
@@ -73,4 +77,8 @@ figcaption{
 
 .page-topper {
   width: auto;
+}
+
+body {
+  background-color: #1a1919;
 }
