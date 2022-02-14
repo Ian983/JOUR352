@@ -3,3 +3,99 @@ body {
     font-size: 1em;
     color: #444;
 }
+
+#name {
+    font-size: 3em;
+    color: #33485e;
+    text-transform: uppercase;
+    text-align: center;
+    border-bottom: 1px solid #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+}
+
+img {
+    display: none;
+}
+
+#title {
+  text-transform: uppercase;
+  font-size: 1.5em;
+  color: #33485e;
+  font-weight: 600;
+  text-align: center;
+  margin: 20px 0 0 0;
+}
+
+.sectionheader {
+  font-size: 1.5em;
+  color: white;
+  background-color: #33485e;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin: 20px 0 10px;
+  width: 70%;
+  min-width: 300px;
+
+}
+
+.jobtitle {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+.organization {
+  font-weight: 400;
+  font-size: 1.25em;
+
+}
+
+.date {
+  font-size: 1em;
+  font-style: italic;
+  margin-top: 2px;
+  font-weight: 400;
+}
+
+.description {
+  font-size: 1em;
+  margin: 10px 0 10px;
+}
+
+ul li {
+  font-size: 1em;
+}
+
+.menu {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.menu li {
+  display: inline;
+
+}
+
+#degrees {
+  margin: 5px 0 0 0;
+}
+
+#do {
+  margin: 5px 0 0 0;
+}
+
+.top {
+ width: 60%;
+ min-width: 300px;
+ margin: 0 auto;
+ margin-bottom: 30px;
+}
+
+#container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
