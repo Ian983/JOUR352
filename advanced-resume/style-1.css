@@ -1,6 +1,6 @@
 
 .headline {
-  font-size: 1.2em;
+  font-size: 1.5em;
   font-weight: 700;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
@@ -81,4 +81,107 @@ figcaption{
 
 body {
   background-color: #1a1919;
+}
+
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 1em;
+}
+
+#name {
+    font-size: 3em;
+    color: #33485e;
+    text-transform: uppercase;
+    text-align: center;
+    border-bottom: 1px solid #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+}
+
+
+
+#title {
+  text-transform: uppercase;
+  font-size: 1.5em;
+  color: #33485e;
+  font-weight: 600;
+  text-align: center;
+  margin: 20px 0 0 0;
+}
+
+.sectionheader {
+  font-size: 1.5em;
+  font-weight: 700;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 350%;
+  color: #dce0e0;
+}
+
+
+.jobtitle {
+  font-size: 1.25em;
+  font-weight: 600;
+  color: white;
+}
+
+
+.organization {
+  font-weight: 400;
+  font-size: 1.25em;
+  color: #f5e8bf;
+
+}
+
+.date {
+  font-size: 1em;
+  font-style: italic;
+  margin-top: 2px;
+  font-weight: 400;
+  color: #f5e8bf;
+}
+
+.description {
+  font-size: 1em;
+  margin: 10px 0 10px;
+  color: #f5e8bf;
+}
+
+ul li {
+  font-size: 1em;
+  color: #f5e8bf;
+}
+
+.menu {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.menu li {
+  display: inline;
+
+}
+
+#degrees {
+  margin: 5px 0 0 0;
+}
+
+#do {
+  margin: 5px 0 0 0;
+}
+
+.top {
+ width: 60%;
+ min-width: 300px;
+ margin: 0 auto;
+ margin-bottom: 30px;
+}
+
+#container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
 }
